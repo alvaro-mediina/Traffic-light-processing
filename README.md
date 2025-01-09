@@ -21,4 +21,8 @@ El proyecto se llevó a cabo en el marco del curso de Procesamiento de imágenes
 # Informe
 El informe del proyecto se encuentra en el archivo [`Informe.pdf`](./Informe.pdf).
 
+# Código
+El código del proyecto se encuentra en el archivo [`Procesamiento_Semaforos.ipynb`](./Procesamiento_Semaforos.ipynb).
 
+# Referencias
+Pueden encontrarse al final del informe.
